@@ -1,0 +1,4 @@
+pymongos
+pandas
+numpy
+-e .
