@@ -22,6 +22,5 @@ LOG_FIlE_PATH = os.path.join(LOG_DIR, LOG_FIlE_NAME)
 logging.basicConfig(filename=LOG_FIlE_PATH,
 filemode = "w",
 format = '[%(asctime)s] %(name)s - %(levelname)s - %(message)s',
-#level=logging.INFO,
-level=logging.DEBUG,
+level=logging.INFO,
 )
