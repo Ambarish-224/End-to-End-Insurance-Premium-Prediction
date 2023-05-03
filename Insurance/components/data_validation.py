@@ -74,6 +74,8 @@ class DataValidation:
         except Exception as e:
             raise InsuranceException(e, sys)
 
+    
+    
     def data_drift(self,base_df:pd.DataFrame,current_df:pd.DataFrame,report_key_name:str):
         try:
             drift_report=dict()
@@ -105,6 +107,8 @@ class DataValidation:
         except Exception as e:
             raise InsuranceException(e, sys)
 
+    
+    
     def initiate_data_validation(self)->artifact_entity.DataValidationArtifact:
         try:
             logging.info(f"Reading base dataframe")

@@ -27,7 +27,7 @@ class ModelTrainerArtifact:
 
 
 @dataclass
-class MOdelEvaluationArtifact:
+class ModelEvaluationArtifact:
     is_model_accepted: bool
     improved_accuracy: float
 
