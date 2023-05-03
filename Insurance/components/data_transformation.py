@@ -1,5 +1,7 @@
 from Insurance.entity import config_entity, artifact_entity
 from Insurance.exception import InsuranceException
+from Insurance.logger import logging
+from typing import Optional
 import os , sys
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
