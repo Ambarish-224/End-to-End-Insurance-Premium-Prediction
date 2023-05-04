@@ -18,4 +18,11 @@ PyYAML
 numpy
 scikit-learn==1.2.0
 apache-airflow
+streamlit==1.12.2
+click==7.1.2
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
 -e .
