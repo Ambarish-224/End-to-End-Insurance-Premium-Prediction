@@ -56,4 +56,4 @@ y_pred = model.predict(df)
 
 
 if st.button("Show Result"):
-    st.header(f"{round(y_pred[0],2)} INR")
+    st.header(f" Insurance Prediction is  {round(y_pred[0],2)} INR")
