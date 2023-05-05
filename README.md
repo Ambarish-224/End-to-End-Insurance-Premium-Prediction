@@ -96,4 +96,9 @@ pip install -r requirements.txt
 
 <p align="center">
   <img src="https://lh5.googleusercontent.com/49NljwFVuPL1zR5z6rrBsLh8fEQBDTLCmG9Z9xScq1sLWdtR89KhtKS702hUDN566WIE42eems8Fb_y0jbb6N7Cv-noJ_W3pt7JDlblCE_0POna1AUAZ6aSNERqPC9nfMFrXL8g"/>
+  
+  
+  ## Thanks & Regards
+  ## Ambarish Singh
+  
 
