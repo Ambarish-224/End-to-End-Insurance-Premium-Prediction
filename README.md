@@ -1,7 +1,7 @@
 # Insurance-Prediction-Project
 
 
-Application URL : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
+Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
 
 ## UI of Application :-
 
