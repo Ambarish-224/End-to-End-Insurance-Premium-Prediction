@@ -70,7 +70,7 @@ pip install -r requirements.txt
   <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Project%20Architecture.drawio.png"/>
 
 
-<br>
+<br><br>
 
 ## Project Pipeline
 1. [Data Ingestion](#1-data-ingestion)
