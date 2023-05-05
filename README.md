@@ -14,6 +14,7 @@ Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insuran
 * [Technologies](#technologies)
 * [Software and account requirement](#software-and-account-requirement)
 * [Setup](#setup)
+* [Project Architecture](#project-architecture)
 * [Project Pipeline](#project-pipeline)
 <!-- * [License](#license) -->
 
@@ -37,6 +38,12 @@ This project is created with below technologies/tools/resorces:
 2. [Streamlit Account](https://streamlit.io/cloud)
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT CLI](https://git-scm.com/downloads)
+
+
+## Project Architecture
+
+<p align="center">
+  <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Project%20Architecture.drawio.png"/>
 
 
 ## Setup 
