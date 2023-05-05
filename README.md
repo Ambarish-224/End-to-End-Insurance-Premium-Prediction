@@ -1,13 +1,17 @@
 # Insurance-Prediction-Project
 
+<br><br>
 
 Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
+
+<br><br>
 
 ## UI of Application :-
 
 <p align="center">
   <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Updated_homepage.jpg"/>
 
+<br>
 
 ## Table of contents
 * [About project](#about-project)
