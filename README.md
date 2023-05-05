@@ -40,12 +40,6 @@ This project is created with below technologies/tools/resorces:
 4. [GIT CLI](https://git-scm.com/downloads)
 
 
-## Project Architecture
-
-<p align="center">
-  <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Project%20Architecture.drawio.png"/>
-
-
 ## Setup 
 
 Forks the Github Repository
@@ -61,6 +55,13 @@ pip install -r requirements.txt
 * To check all version maintained by git  `git log`    
 * To create version/commit all changes by git  `git commit -m "message"`    
 * To send version/changes to github  `git push origin main`    
+
+
+
+## Project Architecture
+
+<p align="center">
+  <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Project%20Architecture.drawio.png"/>
 
 
 ## Project Pipeline
