@@ -3,7 +3,11 @@
 
 Application URL : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
 
-# UI of Application :-
+## UI of Application :-
+
+<p align="center">
+  <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Updated_homepage.jpg"/>
+
 
 ## Table of contents
 * [About project](#about-project)
