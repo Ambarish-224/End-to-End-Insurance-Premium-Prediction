@@ -1,4 +1,4 @@
-# Insurance-Prediction-Project
+# End-to-End-Insurance-Premium-Prediction
 
 <br>
 
