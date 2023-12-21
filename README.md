@@ -2,9 +2,9 @@
 
 <br>
 
-[Linkedin](https://www.linkedin.com/in/ambarish-224/)
-[Medium](https://medium.com/@Ambarish_224)
-[Github](https://github.com/Ambarish-224)
+[Linkedin](https://www.linkedin.com/in/ambarish-224/) <br>
+[Medium](https://medium.com/@Ambarish_224) <br>
+[Github](https://github.com/Ambarish-224) <br>
 
 <br>
 
