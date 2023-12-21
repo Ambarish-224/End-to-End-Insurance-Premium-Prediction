@@ -2,14 +2,18 @@
 
 <br>
 
-Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
+[Linkedin](https://www.linkedin.com/in/ambarish-224/)
+[Medium](https://medium.com/@Ambarish_224)
+[Github](https://github.com/Ambarish-224)
 
 <br>
 
-## UI of Application :-
 
-<p align="center">
-  <img src="https://github.com/Ambarish-224/Insurance-Prediction-Project/blob/main/Dataset/Updated_homepage.jpg"/>
+## UI of Application:-
+
+<br>
+
+Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insurance-prediction-project.streamlit.app/)
 
 <br>
 
@@ -25,12 +29,12 @@ Application URL Links : [InsurancePremiumPredictor](https://ambarish-224-insuran
 <br>
 
 ## About project
-Insurance Premium Prediction is an Machine Learning Project which predicts Insurance premium price based on some Input data.
+Insurance Premium Prediction is a Machine Learning Project that predicts Insurance premium prices based on some Input data.
 
 <br>
 
 ## Technologies
-This project is created with below technologies/tools/resorces:
+This project is created with below technologies/tools/resources:
 * Python: 3.7
 * Machine Learning
 * Jupyter Notebook
@@ -51,16 +55,16 @@ This project is created with below technologies/tools/resorces:
 
 ## Setup 
 
-To install requirement file
+To install the required file
 ```
 pip install -r requirements.txt
 ```
 
 * Add files to git  `git add .` or  `git add <file_name>`    
 * To check the git status  `git status`    
-* To check all version maintained by git  `git log`    
+* To check all versions maintained by git  `git log`    
 * To create version/commit all changes by git  `git commit -m "message"`    
-* To send version/changes to github  `git push origin main`    
+* To send version/changes to GitHub  `git push origin main`    
 
 <br>
 
@@ -88,7 +92,7 @@ pip install -r requirements.txt
 <br>
 
 ### 2. Data Validation:
-* Data validation is an integral part of ML pipeline. It is checking the quality of source data before training a new mode
+* Data validation is an integral part of the ML pipeline. It is checking the quality of source data before training a new mode
 * It focuses on checking that the statistics of the new data are as expected (e.g. feature distribution, number of categories, etc). 
 
 <br>
@@ -110,8 +114,8 @@ pip install -r requirements.txt
 
 <br>
 
-### 6. Model Deployement
-* Deployment is the method by which we integrate a machine learning model into production environment to make practical business decisions based on data. 
+### 6. Model Deployment
+* Deployment is the method by which we integrate a machine-learning model into the production environment to make practical business decisions based on data. 
 
 <br>
 
